@@ -18,16 +18,16 @@ Also include necessary **steps to reproduce** the issue. Finally, please provide
 
 ## Example
 
->Cannot retrieve profiles for user with user ID "^"
+>Cannot retrieve products for user with user ID "^"
 
 >Issue found on February 19th 2015.
 
->Endpoint(s): /users/<user_id>/profiles
+>Endpoint(s): /users/<user_id>/products
 Scope(s): User.Minimal
 
 >Steps to reproduce: Use curl as described in the guide http://itembase.github.io/api-guides/#getting-all-new-and-updated-products
 
->Expected behaviour: A user profile per connected platform.
+>Expected behaviour: A set of products per connected platform of the user.
 
 >Actual behaviour: 500 Server Error (consistently)
 
