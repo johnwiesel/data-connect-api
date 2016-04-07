@@ -25,7 +25,7 @@ Also include necessary **steps to reproduce** the issue. Finally, please provide
 >Endpoint(s): /users/<user_id>/profiles
 Scope(s): User.Minimal
 
->Steps to reproduce: Use curl as described here https://api.itembase.com/api/guides
+>Steps to reproduce: Use curl as described in the guide http://itembase.github.io/api-guides/#getting-all-new-and-updated-products
 
 >Expected behaviour: A user profile per connected platform.
 
