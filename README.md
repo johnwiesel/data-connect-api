@@ -31,6 +31,6 @@ Scope(s): User.Minimal
 
 >Actual behaviour: 500 Server Error (consistently)
 
-## Achknowledgement
+## Acknowledgement
 
 This text is inspired by [Spotify's Web API repository](https://github.com/spotify/web-api).
