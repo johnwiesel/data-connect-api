@@ -9,7 +9,7 @@ If you have ideas, bug reports, or any other type of feedback to us that doesn't
 
 ## Stay tuned in
 
-For API announcements, visit our [developers notes page](https://api.itembase.com/api/notes). We plan on setting up a newsletter soon.
+For API announcements, visit our [developers notes page](https://itembase.github.io/api-notes). We plan on setting up a newsletter soon.
 
 ## Bug report format
 Please provide a **description** including when the bug occurred and the API endpoints involved. If you believe the bug is related to authentication or authorization, please also provide the scopes given to your application.
