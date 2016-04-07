@@ -14,7 +14,7 @@ For API announcements, visit our [developers notes page](https://itembase.github
 ## Bug report format
 Please provide a **description** including when the bug occurred and the API endpoints involved. If you believe the bug is related to authentication or authorization, please also provide the scopes given to your application.
 
-Also include necessary **steps to reproduce** the issue, which may simply be a link to the [API console](https://developer.spotify.com/web-api/console/). Finally, please provide the difference between the **expected behaviour** and **actual behaviour** of the API.
+Also include necessary **steps to reproduce** the issue. Finally, please provide the difference between the **expected behaviour** and **actual behaviour** of the API.
 
 ## Example
 
